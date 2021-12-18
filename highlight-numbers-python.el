@@ -81,6 +81,8 @@
                       (eval highlight-numbers-py-integer))
                   symbol-end))))
 
+(puthash 'python-mode highlight-numbers-python highlight-numbers-modelist)
+
 (provide 'highlight-numbers-python)
 
 ;;; highlight-numbers-python.el ends here
