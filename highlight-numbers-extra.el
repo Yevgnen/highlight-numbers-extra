@@ -29,6 +29,7 @@
 ;;; Code:
 
 (require 'highlight-numbers-python)
+(require 'highlight-numbers-rust)
 
 (provide 'highlight-numbers-extra)
 
