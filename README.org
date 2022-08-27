@@ -1,0 +1,8 @@
+#+title: README
+
+Extra syntax highlighting of [[https://github.com/Fanael/highlight-numbers][highlight-numbers]].
+
+Supported major modes:
+
+- ~python-mode~
+- ~rust-mode~ / ~rustic-mode~
